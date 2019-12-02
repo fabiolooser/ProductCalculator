@@ -1,0 +1,38 @@
+# Local Intellij Idea files
+.idea/
+generated/
+generated_tests/
+out/
+*.iml
+*.ipr
+*.iws
+
+# Local Eclipse files
+bin/
+.classpath
+.settings
+.factorypath
+.project
+
+# Other files
+build/
+build_eclipse/
+gradle-cache/
+target/
+test-output/
+*.log
+*.log.*
+*Test.json
+.launch/
+.gradle
+composite-build.gradle
+projectSubset.json
+gradle.personal.properties
+q.log.err
+q.log.out
+rebel.xml
+.scannerwork/
+.DS_Store
+.directory
+.vscode/
+.project-dependencies.dot
